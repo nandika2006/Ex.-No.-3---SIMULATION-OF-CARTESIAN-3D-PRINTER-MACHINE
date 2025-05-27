@@ -64,7 +64,7 @@
 
 
 ### Name: NANDIKA S
-### Register Number: 212224230175
+### Register Number: 2122224230175
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
